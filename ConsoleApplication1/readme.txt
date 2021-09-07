@@ -1,1 +1,1 @@
-Hello! That's project description.
+Hello! 
