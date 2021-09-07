@@ -1,2 +1,3 @@
 # AshReposit
-Ash public Repository
+Публичный репозиторий Эша
+
